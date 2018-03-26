@@ -2,5 +2,5 @@
 <manifest>
   <remote  name="origin" fetch="git@github.com:shubhraprakash" />
   <default revision="master" remote="origin" />
-  <project path="proj1" name="path1" />
+  <project path="proj1" name="proj1" />
 </manifest>
