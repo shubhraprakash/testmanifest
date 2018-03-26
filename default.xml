@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="origin" fetch="git@github.com:shubhraprakash" />
+  <remote  name="origin" fetch=".." />
   <default revision="master" remote="origin" />
   <project path="proj1" name="proj1" />
 </manifest>
